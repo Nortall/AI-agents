@@ -1,15 +1,3 @@
----
-name: 02_test_design_techniques
-description: Использовать при генерации тестовых сценариев. Определяет техники тест-дизайна: позитивное/негативное тестирование, эквивалентное разбиение, анализ граничных значений, догадки об ошибках.
-version: 1.0.0
-author: Hermes Agent
-license: MIT
-metadata:
-  hermes:
-    tags: [test-cases, testing, qa, design-techniques]
-    related_skills: [01_test_case_template, 03_quality_and_best_practices, 07_generation_algorithm]
----
-
 # Test Design Techniques
 
 При генерации тестовых сценариев использовать:
