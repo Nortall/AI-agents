@@ -1,10 +1,3 @@
----
-name: 07_generation_algorithm
-description: Алгоритм генерации тестовых сценариев — анализ требований, выделение акторов/сценариев/критериев приёмки, разрешение неоднозначностей, применение техник тест-дизайна, группировка по бизнес-идеям, самопроверка.
-tags: [test-cases, testing, qa, algorithm]
-    related_skills: [00_test_case_sysprompt, 01_test_case_template, 02_test_design_techniques, 03_quality_and_best_practices, 05_output_format, 08_priority_rules, 09_checklist_generation, 10_traceability_and_hallucination_guard, 11_variability_analysis]
----
-
 # Алгоритм генерации тестовых сценариев
 
 ## Шаг 1. Анализ требований
