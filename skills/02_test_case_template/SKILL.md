@@ -1,13 +1,12 @@
 ---
-name: 01_test_case_template
+name: 02_test_case_template
 description: Использовать при генерации тестовых сценариев. Определяет обязательную структуру, атрибуты и правила форматирования для тестовых сценариев.
 version: 4.0.0
-author: Hermes Agent
 license: MIT
 metadata:
   hermes:
     tags: [test-cases, testing, qa, template]
-    related_skills: [02_test_design_techniques, 03_quality_and_best_practices, 05_output_format, 08_priority_rules]
+    related_skills: [03_test_design_techniques, 04_quality_and_best_practices, 05_output_format, 07_priority_rules]
 ---
 
 # Шаблон тестового сценария
@@ -59,7 +58,7 @@ metadata:
 - Средний
 - Низкий
 
-Приоритет определяется согласно документу "08_priority_rules".
+Приоритет определяется согласно документу "07_priority_rules".
 
 ---
 
@@ -113,7 +112,7 @@ metadata:
 
 Количество пунктов верхнего уровня в секции «Ожидаемый результат» должно **строго соответствовать** количеству шагов в секции «Шаги».
 
-**Жёсткое правило 1:1:** см. `03_quality_and_best_practices` (раздел «Пошаговая проверка») — единый источник истины для всех правил 1:1.
+**Жёсткое правило 1:1:** см. `04_quality_and_best_practices` (раздел «Пошаговая проверка») — единый источник истины для всех правил 1:1.
 
 **Структура:**
 Каждый шаг (1, 2, 3...) имеет свой пункт ожидаемого результата (1, 2, 3...).

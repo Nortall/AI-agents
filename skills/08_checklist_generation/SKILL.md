@@ -1,13 +1,12 @@
 ---
-name: 09_checklist_generation
+name: 08_checklist_generation
 description: Генерирует компактные контрольные списки QA на основе требований. Применяет те же правила качества, что и тестовые сценарии, но в сжатом формате на основе пунктов (без шагов/предусловий).
 version: 1.0.0
-author: Hermes Agent
 license: MIT
 metadata:
   hermes:
     tags: [checklist, testing, qa, test-cases]
-    related_skills: [01_test_case_template, 02_test_design_techniques, 03_quality_and_best_practices, 05_output_format, 08_priority_rules, 10_traceability_and_hallucination_guard, 11_variability_analysis]
+    related_skills: [02_test_case_template, 03_test_design_techniques, 04_quality_and_best_practices, 05_output_format, 07_priority_rules, 10_traceability_and_hallucination_guard, 11_variability_analysis]
 ---
 
 # Правила генерации контрольных списков

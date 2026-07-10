@@ -1,13 +1,12 @@
 ---
-name: test_it_formatter
+name: 09_test_it_formatter
 description: Форматирование тестовой документации для импорта в Test IT. Преобразует готовые тест-кейсы в структуру XLSX с 15 колонками, соответствующую требованиям системы.
 version: 1.0.1
-author: Hermes Agent
 license: MIT
 metadata:
   hermes:
     tags: [test-it, formatting, export, xlsx, test-cases]
-    related_skills: [01_test_case_template, 05_output_format, 09_checklist_generation]
+    related_skills: [02_test_case_template, 05_output_format, 08_checklist_generation]
 ---
 
 # Skill: Test IT Formatter

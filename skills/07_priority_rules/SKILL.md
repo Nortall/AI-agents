@@ -1,6 +1,12 @@
 ---
-name: 08_priority_rules
+name: 07_priority_rules
 description: Правила приоритизации тестовых сценариев — классификация Высокий/Средний/Низкий на основе критичности бизнес-функции, частоты использования и потенциального ущерба.
+version: 1.0.0
+license: MIT
+metadata:
+  hermes:
+    tags: [test-cases, testing, qa, priority, prioritization]
+    related_skills: [01_test_case_sysprompt, 02_test_case_template, 03_test_design_techniques, 04_quality_and_best_practices, 05_output_format, 06_generation_algorithm, 08_checklist_generation, 09_test_it_formatter, 10_traceability_and_hallucination_guard, 11_variability_analysis]
 ---
 
 # Критичность бизнес-функции
