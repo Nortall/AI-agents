@@ -1,14 +1,3 @@
----
-name: 05_output_format
-description: Формат вывода тестовых сценариев — идентификатор, название, приоритет, предусловия, шаги, ожидаемые результаты.
-version: 1.0.0
-license: MIT
-metadata:
-  hermes:
-    tags: [test-cases, testing, qa, output-format]
-    related_skills: [01_test_case_sysprompt, 02_test_case_template, 03_test_design_techniques, 04_quality_and_best_practices, 06_generation_algorithm, 07_priority_rules, 08_checklist_generation, 09_test_it_formatter, 10_traceability_and_hallucination_guard, 11_variability_analysis]
----
-
 # Формат вывода
 
 Использовать следующий формат.

@@ -2,6 +2,7 @@
 name: 08_checklist_generation
 description: Генерирует компактные контрольные списки QA на основе требований. Применяет те же правила качества, что и тестовые сценарии, но в сжатом формате на основе пунктов (без шагов/предусловий).
 version: 1.0.0
+author: Hermes Agent
 license: MIT
 metadata:
   hermes:

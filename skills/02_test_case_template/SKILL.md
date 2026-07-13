@@ -2,6 +2,7 @@
 name: 02_test_case_template
 description: Использовать при генерации тестовых сценариев. Определяет обязательную структуру, атрибуты и правила форматирования для тестовых сценариев.
 version: 4.0.0
+author: Hermes Agent
 license: MIT
 metadata:
   hermes:
